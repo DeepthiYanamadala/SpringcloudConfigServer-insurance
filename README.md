@@ -1,0 +1,2 @@
+# SpringcloudConfigServer-insurance
+springcloudconfig-example
